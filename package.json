@@ -1,0 +1,26 @@
+{
+  "name": "devlogging",
+  "version": "1.0.1",
+  "description": "debugger-js is a lightweight and versatile debugging tool designed specifically for JavaScript developers working in development environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binoybarnabas/logger-js.git"
+  },
+  "keywords": [
+    "debugger",
+    "logger",
+    "developmentmode",
+    "developerlogger",
+    "console"
+  ],
+  "author": "Binoy Barnabas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binoybarnabas/logger-js/issues"
+  },
+  "homepage": "https://github.com/binoybarnabas/logger-js#readme"
+}
