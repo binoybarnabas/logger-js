@@ -1,6 +1,6 @@
 {
   "name": "devlogging",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "debugger-js is a lightweight and versatile debugging tool designed specifically for JavaScript developers working in development environments.",
   "main": "index.js",
   "scripts": {
