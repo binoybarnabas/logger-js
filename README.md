@@ -2,7 +2,7 @@
 
 ## About the Package
 
-**devlogging** is a lightweight logging utility designed for developers to easily debug errors and important events during software development in the development environment. Say goodbye to cluttered `console.log()` statements – with devlogging, you can streamline your debugging process effortlessly in development mode and don't need to worry about deleting all those `console.log()` that you have used to debug; .
+**devlogging** is a lightweight logging utility designed for react developers to easily debug errors and important events during software development in the development environment. Say goodbye to cluttered `console.log()` statements – with devlogging, you can streamline your debugging process effortlessly in development mode and don't need to worry about deleting all those `console.log()` that you have used to debug; .
 
 ## How to Use
 
